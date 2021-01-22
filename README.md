@@ -1,9 +1,9 @@
-## Hi there 👋
+# Hi there 👋
 
 🔭 I’m currently working to find innovative solutions to the future challenges of electric mobility!
 
 
-## Latest Work
+# Latest Work
 Check out my latest work on charging assistants for electric vehicles:
 
 ### 2020
@@ -14,9 +14,9 @@ Check out my latest work on charging assistants for electric vehicles:
 - [On Calendar-Based Scheduling for User-Friendly Charging of Plug-In Electric Vehicles](https://doi.org/10.1109/CAVS.2019.8887782)
 
 
-## Contact
+# Contact
 Feel free to contact me for questions or if you wish to collaborate!
 
 - ✉️ [E-Mail](karl.schwenk@kit.edu)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/karl-schwenk-222830116/)
-- 😺 [GitHub](https://karlschwenk.github.io/karlschwenk/)
+- 😺 [GitHub](https://karlschwenk.github.io/KarlSchwenk/)
