@@ -7,7 +7,7 @@ Feel free to contact me for questions or if you wish to collaborate!
 
 - ✉️ karl.schwenk@kit.edu
 - 🔗 [LinkedIn](https://www.linkedin.com/in/karl-schwenk-222830116/)
-- :octocat: [GitHub](https://karlschwenk.github.io/karlschwenk/)
+- 😺 [GitHub](https://karlschwenk.github.io/karlschwenk/)
 
 <!--
 **KarlSchwenk/karlschwenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
