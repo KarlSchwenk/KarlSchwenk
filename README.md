@@ -5,9 +5,9 @@
 ### Contact
 Feel free to contact me for questions or if you wish to collaborate!
 
-- :email: karl.schwenk@kit.edu
-- :link: [LinkedIn](https://www.linkedin.com/in/karl-schwenk-222830116/)
-- :smiley_cat: [GitHub](https://github.com/KarlSchwenk)
+- ✉️ karl.schwenk@kit.edu
+- 🔗 [LinkedIn](https://www.linkedin.com/in/karl-schwenk-222830116/)
+- :octocat: [GitHub](https://karlschwenk.github.io/karlschwenk/)
 
 <!--
 **KarlSchwenk/karlschwenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
