@@ -21,3 +21,7 @@ Feel free to contact me for questions or if you wish to collaborate!
 - 🔗 [LinkedIn](https://www.linkedin.com/in/karl-schwenk-222830116/)
 - :octocat: [GitHub](https://karlschwenk.github.io/KarlSchwenk/)
 - 🤓 [ResearchGate](https://www.researchgate.net/profile/Karl_Schwenk2)
+
+--------------
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkarlschwenk.github.io%2FKarlSchwenk%2F&count_bg=%231A12D9&title_bg=%231A12D9&icon=&icon_color=%23E7E7E7&title=clicks&edge_flat=true)](https://hits.seeyoufarm.com)
