@@ -25,7 +25,3 @@ Feel free to contact me for questions or if you wish to collaborate!
 --------------
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkarlschwenk.github.io%2FKarlSchwenk%2F&count_bg=%231A12D9&title_bg=%231A12D9&icon=&icon_color=%23E7E7E7&title=clicks&edge_flat=true)](https://hits.seeyoufarm.com)
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkarlschwenk.github.io%2FKarlSchwenk%2F&count_bg=%231A12D9&title_bg=%231A12D9&icon=&icon_color=%23E7E7E7&title=clicks&edge_flat=true"/></a>
-
-https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkarlschwenk.github.io%2FKarlSchwenk%2F&count_bg=%231A12D9&title_bg=%231A12D9&icon=&icon_color=%23E7E7E7&title=clicks&edge_flat=true
