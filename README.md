@@ -6,8 +6,8 @@
 # Latest Work
 Check out my latest work on charging assistants for electric vehicles:
 
-### 2020
-- [Integrating Battery Aging in the Optimization for Bidirectional Charging of Electric Vehicles](https://arxiv.org/abs/2009.12201) (Preprint)
+### 2021
+- [Integrating Battery Aging in the Optimization for Bidirectional Charging of Electric Vehicles](https://ieeexplore.ieee.org/document/9493733)
 
 ### 2019
 - [Data-driven charging strategies for grid-beneficial, customer-oriented and battery-preserving electric mobility](https://arxiv.org/abs/1910.07503)
